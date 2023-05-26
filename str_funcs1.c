@@ -1,7 +1,7 @@
 /*
 * File: str_funcs1.c
-* 
-*          
+*
+*
 */
 #include "shell.h"
 int _strlen(const char *s);
